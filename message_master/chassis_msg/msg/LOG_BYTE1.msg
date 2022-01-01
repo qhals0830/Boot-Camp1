@@ -1,0 +1,6 @@
+# LOG_BYTE1 0x0601 (Dec:1537)
+Header header
+float64 LAT_ACCEL
+float64 LONG_ACCEL
+float64 YAW_RATE
+float64 CYL_PRES
